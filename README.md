@@ -5,8 +5,9 @@
 O presente estudo tem como proposta trazer informações a respeito sobre o conteúdo disponibilizado pela NETFLIX. 
 
 ## 0. Motivação
-
-![alt text](https://github.com/caiombribeiro/estudo_netflix_2023/blob/main/background/netflix.png?raw=true){width=300 height=180 }
+<p align="center">
+<img src="https://github.com/caiombribeiro/estudo_netflix_2023/blob/main/background/netflix.png?raw=true" alt="Texto Alternativo" width="400" height="250" >
+</p>
 
 A NETFLIX é uma das maiores plataformas de Streaming atualmente no mundo. Basicamente, é impossível lembrar do serviços de streaming sem lembrar da empresa, já que ela foi a grande pioneira na área.
 
